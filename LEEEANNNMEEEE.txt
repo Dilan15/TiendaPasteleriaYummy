@@ -1,0 +1,35 @@
+Que notas majes.
+
+Les explico primero necesitan tener instalado el Visual Studio con
+.NETCORE 3.1 para abrir el archivo.
+
+Lo segundo tienen que tener SQL SERVER 
+
+Internet tambien 
+
+Descargan GIT, miren un tutorial para hacer un repositorio de ustedes.
+Una vez tengan Git instalado 
+Hacen un Git Clone mas el link de mi repositorio
+
+Bueno ya una vez hecho eso. 
+
+Abren la carpeta que clonaron en el escritorio con visual 
+
+Luego abren el SQL SERVER y crean la base de datos PasteleriaYummy 
+
+Ahora se van al visual studio y se van a herramientas o tools y se van 
+donde dice Consola de paquetes Nugets lo abren 
+
+Ahora en esa consola escriben 
+
+update-database
+
+Esperan que el ultimo aviso diga 
+
+DONE
+
+Y ahi ya estara migrada la base de datos y ahora si 
+
+se van a la solucion de visual estudio le dan doble click y luego le dan a ILLS
+
+Y ahi arrancara el proyecto. 

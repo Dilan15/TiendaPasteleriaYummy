@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PasteleriaYummy",
+    "\\PasteleriaYummy\\Views",
+    "\\PasteleriaYummy\\Views\\Pastel",
+    "\\PasteleriaYummy\\Views\\Pedido",
+    "\\PasteleriaYummy\\Views\\Shared",
+    "\\PasteleriaYummy\\Views\\Shared\\Components",
+    "\\PasteleriaYummy\\Views\\Shared\\Components\\CategoriaPastelMenu",
+    "\\PasteleriaYummy\\Views\\Shared\\Components\\ResumenTotalCarritoCompras",
+    "\\PasteleriaYummy\\wwwroot"
+  ],
+  "SelectedNode": "\\PasteleriaYummy\\PasteleriaYummy.sln",
+  "PreviewInSolutionExplorer": false
+}
